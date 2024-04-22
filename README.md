@@ -17,7 +17,7 @@
 <br/>
 <br/>
 
-<div claa="principal">
+<div class="principal">
 <div align="left">
     
 🔭 I’m currently working on **a Machine Learning Project** 

@@ -1,8 +1,8 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dgilrua&label=Profile%20views&color=0e75b6&style=flat" alt="dgilrua" /> </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&duration=3000&pause=500&color=288AB6&center=true&random=false&width=500&height=70&lines=Hi+there!+%F0%9F%91%8B;I'm+David+Gil+Rua!" alt="Typing SVG" />
-<h1/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
 
 <h3 align="center">A passionate data scientis from Colombia</h3>
 

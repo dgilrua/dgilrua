@@ -7,6 +7,7 @@
 <h3 align="center">A passionate data scientis from Colombia</h3>
 
 <br/>
+<br/>
 
 <div align="left">
     
@@ -24,6 +25,7 @@
      
 </div>
 
+<br/>
 <br/>
 
 <div align="center"> <a href="https://www.linkedin.com/in/dgilrua" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

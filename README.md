@@ -1,11 +1,10 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=dgilrua&label=Profile%20views&color=0e75b6&style=flat" alt="dgilrua" /> </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+David+Gil+Rua!;" />
 </h1>
 
-<h1 align="center">Hi 👋, I'm David Gil Rua</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dgilrua&label=Profile%20views&color=0e75b6&style=flat" alt="dgilrua" /> </p>
+<br/>
 
 - 🔭 I’m currently working on **a Machine Learning Project**
 - 🌱 I’m currently learning **PyTorch, DeepLearning, NLP**
@@ -13,6 +12,8 @@
 - 📫 How to reach me **dgilrua@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/dgilrua**
 - ⚡ Fun fact **life before death, strength before weakness, journey before destination**
+
+<br/>
 
 <div> <a href="https://www.linkedin.com/in/dgilrua" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/dgilrua" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -22,6 +23,9 @@
 <a href="https://linkedin.com/in/dgilrua" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="dgilrua" height="30" width="40" /></a><a href="https://www.leetcode.com/dgilrua" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="dgilrua" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
+
+<br/>
+
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>

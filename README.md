@@ -19,6 +19,8 @@
 <a href="https://github.com/dgilrua" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:dgilrua@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+<br/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <br/>
@@ -50,14 +52,14 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <br/>
-<hr/>
+<br/>
 
 <div align="center">
 <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgilrua&hide_progress=true&theme=dark" alt=dgilrua />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dgilrua&show_icons=true&locale=en&theme=dark" alt="dgilrua" />
 
-<hr/>
+<br/>
 <br/>
 
 <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dgilrua&theme=dark" alt="dgilrua" />

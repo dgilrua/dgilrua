@@ -1,5 +1,9 @@
 <style>
-    
+    .principal {
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        gap: 1rem;
+    }
 </style>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dgilrua&label=Profile%20views&color=0e75b6&style=flat" alt="dgilrua" /> </p>
@@ -13,7 +17,7 @@
 <br/>
 <br/>
 
-<div>
+<div claa="principal">
 <div align="left">
     
 🔭 I’m currently working on **a Machine Learning Project** 

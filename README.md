@@ -7,12 +7,12 @@
 <br/>
 
 <div align="center">
-<p>- 🔭 I’m currently working on **a Machine Learning Project**</p>
-<p>- 🌱 I’m currently learning **PyTorch, DeepLearning, NLP**</p>
-<p>- 💬 Ask me about **Mathematics, Statistics, Scikit-Learn, Django, React**</p>
-<p>- 📫 How to reach me **dgilrua@gmail.com**</p>
-<p>- 👨‍💻 All of my projects are available at **https://github.com/dgilrua**</p>
-<p>- ⚡ Fun fact **life before death, strength before weakness, journey before destination**</p>
+     🔭 I’m currently working on **a Machine Learning Project** 
+     🌱 I’m currently learning **PyTorch, DeepLearning, NLP** 
+     💬 Ask me about **Mathematics, Statistics, Scikit-Learn, Django, React** 
+     📫 How to reach me **dgilrua@gmail.com** 
+     👨‍💻 All of my projects are available at **https://github.com/dgilrua** 
+     ⚡ Fun fact **life before death, strength before weakness, journey before destination** 
 </div>
 
 <br/>

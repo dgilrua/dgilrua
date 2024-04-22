@@ -4,15 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+David+Gil+Rua!;" />
 </h1>
 
+<h3 align="center">A passionate data scientis from Colombia</h3>
+
 <br/>
 
 <div align="center">
+    
      🔭 I’m currently working on **a Machine Learning Project** 
      🌱 I’m currently learning **PyTorch, DeepLearning, NLP** 
      💬 Ask me about **Mathematics, Statistics, Scikit-Learn, Django, React** 
      📫 How to reach me **dgilrua@gmail.com** 
      👨‍💻 All of my projects are available at **https://github.com/dgilrua** 
-     ⚡ Fun fact **life before death, strength before weakness, journey before destination** 
+     ⚡ Fun fact **life before death, strength before weakness, journey before destination**
+     
 </div>
 
 <br/>

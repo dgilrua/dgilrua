@@ -10,12 +10,17 @@
 
 <div align="center">
     
-     🔭 I’m currently working on **a Machine Learning Project** 
-     🌱 I’m currently learning **PyTorch, DeepLearning, NLP** 
-     💬 Ask me about **Mathematics, Statistics, Scikit-Learn, Django, React** 
-     📫 How to reach me **dgilrua@gmail.com** 
-     👨‍💻 All of my projects are available at **https://github.com/dgilrua** 
-     ⚡ Fun fact **life before death, strength before weakness, journey before destination**
+🔭 I’m currently working on **a Machine Learning Project** 
+
+🌱 I’m currently learning **PyTorch, DeepLearning, NLP** 
+
+💬 Ask me about **Mathematics, Statistics, Scikit-Learn, Django, React** 
+
+📫 How to reach me **dgilrua@gmail.com** 
+
+👨‍💻 All of my projects are available at **https://github.com/dgilrua** 
+
+⚡ Fun fact **life before death, strength before weakness, journey before destination**
      
 </div>
 

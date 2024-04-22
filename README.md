@@ -7,8 +7,6 @@
 <h1 align="center">Hi 👋, I'm David Gil Rua</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dgilrua&label=Profile%20views&color=0e75b6&style=flat" alt="dgilrua" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dgilrua&theme=" alt="dgilrua" /></a> </p>
-
 - 🔭 I’m currently working on **a Machine Learning Project**
 - 🌱 I’m currently learning **PyTorch, DeepLearning, NLP**
 - 💬 Ask me about **Mathematics, Statistics, Scikit-Learn, Django, React**

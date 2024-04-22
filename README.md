@@ -47,11 +47,9 @@
 </div>
 
 <br/>
-<br/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<br/>
 <br/>
 
 <div align="center">
@@ -59,7 +57,6 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dgilrua&show_icons=true&locale=en&theme=dark" alt="dgilrua" />
 
-<br/>
 <br/>
 
 <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dgilrua&theme=dark" alt="dgilrua" />

@@ -73,3 +73,14 @@
 
 <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dgilrua&theme=dark" alt="dgilrua" />
 </div>
+
+<div>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dgilrua&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="dgilrua" /></p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dgilrua&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en" alt="dgilrua" /></p>
+
+<br/>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dgilrua&theme=dark" alt="dgilrua" /></p>
+<div/>
+

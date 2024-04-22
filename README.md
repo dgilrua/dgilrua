@@ -25,17 +25,18 @@
      
 </div>
 
-<br/>
+</br>
 
 <div align="center"> <a href="https://www.linkedin.com/in/dgilrua" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/dgilrua" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:dgilrua@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </hr>
+</br>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-<br/>
+</br>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="65" height="65"/>
@@ -58,18 +59,18 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/arduino-1.svg" alt="Arduino" width="65" height="65"/>
 </div>
 
-<br/>
+</br>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<br/>
+</br>
 
 <div align="center">
 <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgilrua&hide_progress=true&theme=dark&hide_border=true" alt=dgilrua />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dgilrua&show_icons=true&locale=en&theme=dark&hide_border=true" alt="dgilrua" />
 
-<br/>
+</br>
 
 <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dgilrua&theme=dark&hide_border=true" alt="dgilrua" />
 </div>
